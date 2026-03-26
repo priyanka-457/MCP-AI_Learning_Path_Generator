@@ -4,12 +4,12 @@ This project is a Streamlit-based web application that generates personalized le
 
 ## Features
 
-- 🎯 Generate personalized learning paths based on your goals
-- 🎥 Integration with YouTube for video content
-- 📁 Google Drive integration for document storage
-- 📝 Notion integration for note-taking and organization
-- 🚀 Real-time progress tracking
-- 🎨 User-friendly Streamlit interface
+-  Generate personalized learning paths based on your goals
+-  Integration with YouTube for video content
+-  Google Drive integration for document storage
+-  Notion integration for note-taking and organization
+-  Real-time progress tracking
+-  User-friendly Streamlit interface
 
 ## Prerequisites
 
@@ -59,3 +59,6 @@ The application will be available at `http://localhost:8501` by default.
 - `utils.py` - Utility functions and helper methods
 - `prompt.py` - Prompt template
 - `requirements.txt` - Project dependencies
+
+## 🎥 Demo Video
+[Watch Demo](demo/learning-path-demo.mp4)
